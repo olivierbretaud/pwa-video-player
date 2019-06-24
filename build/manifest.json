@@ -1,0 +1,15 @@
+{
+  "short_name": "pwa-video-player",
+  "name": "pwa-video-player",
+  "icons": [
+    {
+      "src": "react.png",
+      "sizes": "192x192 64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "https://olivierbretaud.github.io/pwa-video-player/index.html",
+  "display": "fullscreen",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

@@ -1,4 +1,4 @@
-### To do list
+### A boilerplate from react PWA
 
-A to do list created with hooks and context API
+created with hooks and context API
 
