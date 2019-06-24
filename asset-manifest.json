@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/pwa-video-player/static/css/main.779199f4.chunk.css",
-    "main.js": "/pwa-video-player/static/js/main.12d1061a.chunk.js",
-    "main.js.map": "/pwa-video-player/static/js/main.12d1061a.chunk.js.map",
+    "main.js": "/pwa-video-player/static/js/main.ac4fbc76.chunk.js",
+    "main.js.map": "/pwa-video-player/static/js/main.ac4fbc76.chunk.js.map",
     "runtime~main.js": "/pwa-video-player/static/js/runtime~main.ca2dd1db.js",
     "runtime~main.js.map": "/pwa-video-player/static/js/runtime~main.ca2dd1db.js.map",
     "static/js/2.3310f33a.chunk.js": "/pwa-video-player/static/js/2.3310f33a.chunk.js",
     "static/js/2.3310f33a.chunk.js.map": "/pwa-video-player/static/js/2.3310f33a.chunk.js.map",
     "index.html": "/pwa-video-player/index.html",
-    "precache-manifest.b681b4e0b960d987efa5fc28c2b7882c.js": "/pwa-video-player/precache-manifest.b681b4e0b960d987efa5fc28c2b7882c.js",
+    "precache-manifest.f2ad67725895a0a17b770e5f70758bb7.js": "/pwa-video-player/precache-manifest.f2ad67725895a0a17b770e5f70758bb7.js",
     "service-worker.js": "/pwa-video-player/service-worker.js",
     "static/css/main.779199f4.chunk.css.map": "/pwa-video-player/static/css/main.779199f4.chunk.css.map"
   }
