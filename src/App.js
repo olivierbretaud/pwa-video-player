@@ -1,23 +1,13 @@
 import React from 'react';
-import './style/css/App.css';
+import './style/scss/App.scss';
 
-import { TodoContextProvider } from "./contexts/TodoContext"
-import AddTodo from "./components/AddTodo";
-import TodoList from "./components/TodoList";
-import Footer from "./components/Footer";
+import Iframe from "./components/Iframe";
 
 function App() {
   return (
-      <TodoContextProvider>
-        <div className="App">
-            <header className="App-header">
-            <h1>To do hooks</h1>
-            <AddTodo />
-            <TodoList />
-            <Footer />
-            </header>
-        </div>
-      </TodoContextProvider>
+    <>
+      <Iframe />
+    </>
   );
 }
 
