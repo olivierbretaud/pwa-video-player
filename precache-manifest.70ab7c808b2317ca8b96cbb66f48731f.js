@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "74e21045943e896e171abd3f4edba318",
+    "revision": "6fafed5cd7939ada15af50c50758c91d",
     "url": "/pwa-video-player/index.html"
   },
   {
-    "revision": "3b6539098db96463581f",
+    "revision": "4d6c78ebebc51cdbd7a0",
     "url": "/pwa-video-player/static/css/main.779199f4.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pwa-video-player/static/js/2.3310f33a.chunk.js"
   },
   {
-    "revision": "3b6539098db96463581f",
-    "url": "/pwa-video-player/static/js/main.b917a3f4.chunk.js"
+    "revision": "4d6c78ebebc51cdbd7a0",
+    "url": "/pwa-video-player/static/js/main.efa41766.chunk.js"
   },
   {
     "revision": "59aaa8c86a90f580d9d4",
