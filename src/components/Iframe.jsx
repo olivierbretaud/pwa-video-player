@@ -5,7 +5,7 @@ import React from "react";
 const Iframe = () => {
     return (
         <div className="iframe-container">
-          <iframe src="https://www.bakasable.fr/" frameBorder="0" className="iframe"></iframe>
+          <iframe src="https://www.bakasable.fr/" title="valorex-website" frameBorder="0" className="iframe"></iframe>
         </div>
     )
 }
